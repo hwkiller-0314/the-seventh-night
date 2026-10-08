@@ -1,0 +1,48 @@
+name: 游戏问题反馈
+description: 反馈安装、启动、黑屏、卡顿或剧情无法继续等问题
+title: "[Bug] "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢反馈。请尽量填写完整信息，方便快速定位问题。
+  - type: input
+    id: version
+    attributes:
+      label: 游戏版本
+      description: 例如 v1.3.0
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows 版本
+      description: 例如 Windows 10 22H2 / Windows 11 24H2
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+      description: 请描述你做了什么，以及问题出现的顺序
+      placeholder: |
+        1. 打开游戏
+        2. 点击开始
+        3. 到第三章后出现……
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 期望结果
+    validations:
+      required: false
+  - type: textarea
+    id: logs
+    attributes:
+      label: 截图、录屏或报错信息
+      description: 可以直接拖拽图片到编辑框中
+    validations:
+      required: false

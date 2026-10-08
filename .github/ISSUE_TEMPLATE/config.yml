@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 下载最新版
+    url: https://github.com/hwkiller-0314/the-seventh-night/releases
+    about: 查看最新版本和安装包
+  - name: 阅读游戏说明
+    url: https://github.com/hwkiller-0314/the-seventh-night#readme
+    about: 查看游戏介绍、系统要求和操作说明
