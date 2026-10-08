@@ -6,6 +6,7 @@
 
 **一场只有七天的亲密关系实验，一段从雨夜开始的悬疑恋爱。**
 
+[官方网站](https://hwkiller-0314.github.io/the-seventh-night/) ·
 [下载 Windows 版](https://github.com/hwkiller-0314/the-seventh-night/releases) ·
 [游戏简介](#游戏简介) ·
 [截图](#截图) ·
