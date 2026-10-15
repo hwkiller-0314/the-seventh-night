@@ -1,0 +1,36 @@
+name: 分享结局与游玩感受
+description: 留下你抵达的结局、喜欢的一幕或对后续版本的期待
+title: "[反馈] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢游玩。请尽量不要剧透关键真相，给其他玩家留一点探索空间。
+  - type: dropdown
+    id: ending
+    attributes:
+      label: 你抵达的结局
+      options:
+        - 同频
+        - 雨停
+        - 各自成长
+        - 失温
+        - 008
+        - 暂时还没通关
+    validations:
+      required: true
+  - type: textarea
+    id: impression
+    attributes:
+      label: 最有印象的一幕
+      description: 可以是剧情、画面、音乐，或者某个让你犹豫很久的选择
+      placeholder: 例如：我没有想到“把手放在她的手边，但不碰她”会留下这么深的印象。
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: 想对作者说的话
+      description: Bug、剧情建议、希望增加的功能，或者只是简单留一句支持都可以
+    validations:
+      required: false

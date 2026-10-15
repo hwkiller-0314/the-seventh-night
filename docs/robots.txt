@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hwkiller-0314.github.io/the-seventh-night/sitemap.xml
