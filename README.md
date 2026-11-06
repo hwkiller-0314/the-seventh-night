@@ -1,19 +1,21 @@
 <div align="center">
 
-<img src="docs/images/readme-banner.png" alt="第七夜同频：七天亲密关系实验，一场从雨夜开始的悬疑恋爱" width="100%">
+<img src="docs/images/readme-banner.png" alt="第七夜同频：七天恋爱实验，第八夜不存在" width="100%">
 
 # 第七夜同频
 
-**七天，两个陌生人，一副会泄露心跳的手环。**
+**七天恋爱实验。第八夜不存在。**
 
-一场从雨夜开始的免费心理悬疑恋爱视觉小说。
+如果一段关系只能存在七天，你还会开始吗？
+
+一场从雨夜开始的免费心理悬疑恋爱视觉小说。<br>
 单周目约 30 至 60 分钟，包含五个可达结局。
 
 <a href="https://github.com/hwkiller-0314/the-seventh-night/releases/latest">
   <img src="https://img.shields.io/badge/下载最新版-Windows-2b736f?style=for-the-badge&logo=windows&logoColor=white" alt="下载 Windows 版">
 </a>
 <a href="https://hwkiller-0314.github.io/the-seventh-night/">
-  <img src="https://img.shields.io/badge/打开官网-在线预览-244b6b?style=for-the-badge&logo=githubpages&logoColor=white" alt="打开官方网站">
+  <img src="https://img.shields.io/badge/打开官网-查看游戏-244b6b?style=for-the-badge&logo=githubpages&logoColor=white" alt="打开官方网站">
 </a>
 <a href="https://github.com/hwkiller-0314/the-seventh-night/stargazers">
   <img src="https://img.shields.io/badge/喜欢这个故事-点个_Star-8a682f?style=for-the-badge&logo=github&logoColor=white" alt="点个 Star">
@@ -26,14 +28,25 @@
 
 </div>
 
-> 你在一场“亲密关系重建计划”中，与陌生人 S-07 共同生活七天。两个人的心率曲线越来越接近，但她参加实验的目的并不简单，而三年前那把黑伞，似乎也把你们引向了同一个雨夜。
+> 你在一场“亲密关系重建计划”中，与陌生人 S-07 共同生活七天。两个人戴着记录心跳的手环，完成关于距离、信任和边界的任务。第七夜，同频灯亮了。
+>
+> 也是那一夜，她失踪姐姐的档案里，出现了一个本不该存在的房间：008。
+
+## 实验规则
+
+| 规则 | 内容 |
+|---|---|
+| 01 | 不交换真名 |
+| 02 | 不拍照 |
+| 03 | 每晚完成一个指定任务 |
+| 04 | **第八夜不存在** |
 
 ## 为什么值得花 40 分钟
 
-- **选择不是装饰。** 信任、同频、真相、清醒四个隐藏数值会随着每次回应变化，并共同把你带向不同结局。
-- **关系推进有可视化反馈。** 手环、心率和同频灯让“走近一个人”这件事不再只是一行好感度数字。
-- **完整的小体量作品。** 剧本、选择、立绘差分、剧情 CG、雨夜演出、BGM、音效与五个结局都已经打包完成。
-- **不设付费门槛。** Windows 安装包免费下载，不需要购买激活码。
+- **这不是普通的“刷好感”恋爱。** 信任、同频、真相、清醒四个隐藏数值会一起改变关系走向。
+- **选项里有真正的边界。** 能不能牵手、能不能靠近、要不要先问，都会改变你理解这个人的方式。
+- **悬疑不是最后一秒硬反转。** 黑伞、旧手环、末班车和 008 房间，从第一夜就开始埋线。
+- **五个结局，不靠重复劳动。** 单周目约 30 至 60 分钟，完整故事，免费发布。
 
 ## 先看游戏画面
 
@@ -70,14 +83,15 @@
 | 结局 | 5 个 |
 | 时长 | 单周目约 30 至 60 分钟 |
 | 平台 | Windows 10 / Windows 11 64 位 |
-| 价格 | 免费发布 |
+| 价格 | 免费发布，无内购 |
 | 内容说明 | 所有角色均为成年人，不包含裸露画面 |
 
 ## 下载与开始
 
 1. 前往 [Releases](https://github.com/hwkiller-0314/the-seventh-night/releases/latest)，下载 `The-Seventh-Night-v1.3.0-Windows-Setup.exe`。
 2. 运行安装程序并打开游戏。
-3. 首次运行如遇 Windows SmartScreen，选择“更多信息”，再点击“仍要运行”。
+3. 首次启动按提示创建本地账号。游戏进度保存在当前电脑。
+4. 首次运行如遇 Windows SmartScreen，选择“更多信息”，再点击“仍要运行”。
 
 当前版本：`v1.3.0`
 
@@ -118,11 +132,22 @@
 </details>
 
 <details>
+<summary><strong>需要联网吗？进度保存在哪里？</strong></summary>
+
+不需要外部服务器。首次启动会创建本地账号，游戏进度保存在当前电脑。
+
+</details>
+
+<details>
 <summary><strong>为什么 Windows 会提示未知发布者？</strong></summary>
 
 这是个人开发者未购买代码签名证书时常见的提示。安装包可以直接运行，校验文件同时放在 [Releases](https://github.com/hwkiller-0314/the-seventh-night/releases) 中。
 
 </details>
+
+## 内容提示
+
+本作涉及失踪、死亡、心理创伤、治疗以及亲密关系边界等议题。作品不包含血腥画面或裸露内容，所有角色均为成年人。
 
 ## 反馈与交流
 
@@ -134,8 +159,8 @@
 
 这是一个由个人完成并公开发布的免费作品。你可以通过以下方式帮助它被更多人看到：
 
-- 点一个 [Star](https://github.com/hwkiller-0314/the-seventh-night/stargazers)，让仓库更容易出现在 GitHub 搜索与推荐中。
-- 把游戏分享给喜欢视觉小说或心理悬疑故事的朋友。
+- 把游戏分享给喜欢视觉小说、心理悬疑或互动叙事的朋友。
+- 点一个 [Star](https://github.com/hwkiller-0314/the-seventh-night/stargazers)，让仓库更容易被正在寻找同类作品的人发现。
 - 在 Issues 中留下真实反馈，帮助后续版本继续打磨。
 
 ## 更新日志
